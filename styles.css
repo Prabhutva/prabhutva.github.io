@@ -257,6 +257,21 @@ h1.name {
 	font-size: 16px;
 }
 
+.overlay{
+	position:fixed;
+	background-image: url('working.png');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100vh ;
+	height: 100vh;
+	opacity:.3;
+	left:0;
+	right:0;
+	top:0;
+	bottom:0;
+	z-index:1
+  }
+
 /* Achievements ends */
 
 
