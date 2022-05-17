@@ -139,7 +139,7 @@ h1.name {
 	vertical-align: top;
 	display: inline-block;
 	width: 49.7%;
-	height: 50px;
+	/* height: 50px; */
 }
 
 .section-title {
@@ -264,7 +264,10 @@ h1.name {
 	background-repeat: no-repeat;
 	background-size: 100vmin ;
 	height: 100vh;
-	opacity:.3;
+	font-size: 600%;
+	text-align: center;
+	line-height: 100vh;
+	opacity:.2;
 	left:0;
 	right:0;
 	top:0;
