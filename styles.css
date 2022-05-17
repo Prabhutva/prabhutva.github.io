@@ -264,7 +264,7 @@ h1.name {
 	background-repeat: no-repeat;
 	background-size: 100vmin ;
 	height: 100vh;
-	font-size: 600%;
+	font-size: 10vw;
 	text-align: center;
 	line-height: 100vh;
 	opacity:.2;
