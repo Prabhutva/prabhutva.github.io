@@ -259,7 +259,7 @@ h1.name {
 
 .overlay{
 	position:fixed;
-	background-image: url('working.png');
+	background-image: url('peach-cat.gif');
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 100vh ;
@@ -269,7 +269,6 @@ h1.name {
 	right:0;
 	top:0;
 	bottom:0;
-	z-index:1
   }
 
 /* Achievements ends */
